@@ -1,0 +1,131 @@
+practice.css
+html {
+  background-color:#e3c7c5;
+  font-family: 'Mingzat', sans-serif;;
+}
+h1{
+  text-align: center;
+}
+#color div {
+  text-align:center;
+  padding: 8px;
+   margin-left: 5px;
+  display:center;
+}
+#color {
+  width: 900px;
+  height: 200px;
+  border: 2px solid black;
+  background-color: #e0d4d3;
+}
+#color h2{
+  font-size: 35px;
+  margin: 0px;
+}
+#blue {
+  width: 190px;
+  height: 100px;
+  background-color: #2d5dcc;
+  display:inline-block;
+  vertical-align: middle;
+}
+#pink {
+  width: 190px;
+  height: 100px;
+  background-color: #d957d9;
+  display:inline-block;
+  vertical-align: middle;
+}
+#green {
+  width: 190px;
+  height: 100px;
+  background-color: #4fe0b0;
+  display:inline-block;
+  vertical-align: middle;
+}
+#red {
+  width: 190px;
+  height: 100px;
+  background-color: #e85046;
+  display:inline-block;
+  vertical-align: middle;
+}
+#font h2{
+  font-size: 35px;
+  margin: 0px;
+}
+#font {
+  width: 900px;
+  height: 300px;
+  border: 2px solid black;
+  background-color: #e0d4d3;
+}
+#roboto p {
+  line-height: 2px;
+  font-family: 'Roboto Slab', serif;
+  padding: 10px 20px;
+}
+#kalam p {
+  line-height: 2px;
+  font-family: 'Kalam', cursive;
+  padding: 10px 20px;
+}
+#oxygen p {
+  line-height: 2px;
+  font-family: 'Oxygen', sans-serif;
+  padding: 10px 20px;
+}
+#style h2{
+  font-size: 35px;
+  margin: 0px;
+}
+#style {
+  width: 900px;
+  height: 350px;
+  border: 2px solid black;
+  background-color: #e0d4d3;
+}
+section {
+  margin:20px;
+}
+.thin {
+  font-weight: lighter;
+}
+.regular {
+  font-weight: normal;
+}
+.bold {
+  font-weight: bold;
+}
+#font div {
+  border: 2px solid white;
+}
+.flexcontainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: no-wrap;
+  justify-content: space-between;
+}
+
+h3 {
+  text-decoration: underline;
+  text-align: center;
+}
+#style div {
+  border: 2px solid white;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  margin: 20px 20px;
+  padding: 10px 10px;
+  justify-content: space-evenly;
+}
+#main {
+  font-size: 26px;
+}
+#sub {
+  font-size: 18px;
+}
+#section {
+  font-size: 14px;
+}
