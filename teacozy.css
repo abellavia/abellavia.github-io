@@ -78,13 +78,6 @@ header {
     order:1;
 }
 
-/* main {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-} */
-
 
 .location {
     background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg?_gl=1*1213uau*_ga*MTUxMTAyNjI0Mi4xNjc2NjU3MzEz*_ga_3LRZM6TM9L*MTY3ODkwMTM5OS4yMS4xLjE2Nzg5MDE0MDYuNTMuMC4w");
@@ -95,16 +88,12 @@ header {
     text-align: center;
     background-repeat: no-repeat;
 }
-/* .location h3 {
-    display: block;
-    order: -1;
-} */
-/* .title{
-    order:-1;
-    display: block;
-} */
 
-section {
+.title {
+    display: block;
+}
+
+.address {
     background-color: black;
     width: 250px;
     margin: 15px 40px;
